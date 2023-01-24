@@ -8,7 +8,7 @@ const Navbar = () => {
       </h1>
       <div>
         <button className="text-white pr-4">Sign In</button>
-        <button className="bg-red-600 px-6 py-2 rounded cursor-pointer">
+        <button className="bg-red-600 px-6 py-2 text-white rounded cursor-pointer">
           Sign Up
         </button>
       </div>
